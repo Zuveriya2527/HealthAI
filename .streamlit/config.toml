@@ -1,0 +1,10 @@
+[general]
+email = "your-email@example.com"
+
+[server]
+headless = true
+port = 8501
+enableCORS = false
+
+[python]
+version = "3.10"
